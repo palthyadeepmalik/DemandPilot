@@ -1,0 +1,182 @@
+pizza_type_id,ingredient,quantity,unit
+bbq_ckn,Barbecued Chicken,0.35,kg
+bbq_ckn,Red Peppers,0.29,kg
+bbq_ckn,Green Peppers,0.28,kg
+bbq_ckn,Tomatoes,0.25,kg
+bbq_ckn,Red Onions,0.27,kg
+bbq_ckn,Barbecue Sauce,0.22,kg
+cali_ckn,Chicken,0.2,kg
+cali_ckn,Artichoke,0.25,kg
+cali_ckn,Spinach,0.09,kg
+cali_ckn,Garlic,0.06,kg
+cali_ckn,Jalapeno Peppers,0.17,kg
+cali_ckn,Fontina Cheese,0.1,kg
+cali_ckn,Gouda Cheese,0.32,kg
+ckn_alfredo,Chicken,0.18,kg
+ckn_alfredo,Red Onions,0.17,kg
+ckn_alfredo,Red Peppers,0.22,kg
+ckn_alfredo,Mushrooms,0.08,kg
+ckn_alfredo,Asiago Cheese,0.25,kg
+ckn_alfredo,Alfredo Sauce,0.22,kg
+ckn_pesto,Chicken,0.26,kg
+ckn_pesto,Tomatoes,0.23,kg
+ckn_pesto,Red Peppers,0.22,kg
+ckn_pesto,Spinach,0.09,kg
+ckn_pesto,Garlic,0.15,kg
+ckn_pesto,Pesto Sauce,0.32,kg
+southw_ckn,Chicken,0.31,kg
+southw_ckn,Tomatoes,0.28,kg
+southw_ckn,Red Peppers,0.33,kg
+southw_ckn,Red Onions,0.27,kg
+southw_ckn,Jalapeno Peppers,0.19,kg
+southw_ckn,Corn,0.31,kg
+southw_ckn,Cilantro,0.11,kg
+southw_ckn,Chipotle Sauce,0.17,kg
+thai_ckn,Chicken,0.23,kg
+thai_ckn,Pineapple,0.21,kg
+thai_ckn,Tomatoes,0.28,kg
+thai_ckn,Red Peppers,0.24,kg
+thai_ckn,Thai Sweet Chilli Sauce,0.15,kg
+big_meat,Bacon,0.13,kg
+big_meat,Pepperoni,0.1,kg
+big_meat,Italian Sausage,0.06,kg
+big_meat,Chorizo Sausage,0.33,kg
+classic_dlx,Pepperoni,0.28,kg
+classic_dlx,Mushrooms,0.26,kg
+classic_dlx,Red Onions,0.12,kg
+classic_dlx,Red Peppers,0.22,kg
+classic_dlx,Bacon,0.23,kg
+hawaiian,Sliced Ham,0.07,kg
+hawaiian,Pineapple,0.31,kg
+hawaiian,Mozzarella Cheese,0.31,kg
+ital_cpcllo,Capocollo,0.07,kg
+ital_cpcllo,Red Peppers,0.31,kg
+ital_cpcllo,Tomatoes,0.26,kg
+ital_cpcllo,Goat Cheese,0.24,kg
+ital_cpcllo,Garlic,0.27,kg
+ital_cpcllo,Oregano,0.22,kg
+napolitana,Tomatoes,0.23,kg
+napolitana,Anchovies,0.29,kg
+napolitana,Green Olives,0.29,kg
+napolitana,Red Onions,0.23,kg
+napolitana,Garlic,0.29,kg
+pep_msh_pep,Pepperoni,0.2,kg
+pep_msh_pep,Mushrooms,0.3,kg
+pep_msh_pep,Green Peppers,0.26,kg
+pepperoni,Mozzarella Cheese,0.26,kg
+pepperoni,Pepperoni,0.24,kg
+the_greek,Kalamata Olives,0.17,kg
+the_greek,Feta Cheese,0.19,kg
+the_greek,Tomatoes,0.14,kg
+the_greek,Garlic,0.17,kg
+the_greek,Beef Chuck Roast,0.24,kg
+the_greek,Red Onions,0.28,kg
+brie_carre,Brie Carre Cheese,0.33,kg
+brie_carre,Prosciutto,0.23,kg
+brie_carre,Caramelized Onions,0.07,kg
+brie_carre,Pears,0.24,kg
+brie_carre,Thyme,0.14,kg
+brie_carre,Garlic,0.12,kg
+calabrese,‘Nduja Salami,0.06,kg
+calabrese,Pancetta,0.34,kg
+calabrese,Tomatoes,0.31,kg
+calabrese,Red Onions,0.1,kg
+calabrese,Friggitello Peppers,0.06,kg
+calabrese,Garlic,0.21,kg
+ital_supr,Calabrese Salami,0.27,kg
+ital_supr,Capocollo,0.23,kg
+ital_supr,Tomatoes,0.22,kg
+ital_supr,Red Onions,0.32,kg
+ital_supr,Green Olives,0.06,kg
+ital_supr,Garlic,0.35,kg
+peppr_salami,Genoa Salami,0.28,kg
+peppr_salami,Capocollo,0.34,kg
+peppr_salami,Pepperoni,0.23,kg
+peppr_salami,Tomatoes,0.19,kg
+peppr_salami,Asiago Cheese,0.33,kg
+peppr_salami,Garlic,0.09,kg
+prsc_argla,Prosciutto di San Daniele,0.22,kg
+prsc_argla,Arugula,0.34,kg
+prsc_argla,Mozzarella Cheese,0.15,kg
+sicilian,Coarse Sicilian Salami,0.17,kg
+sicilian,Tomatoes,0.35,kg
+sicilian,Green Olives,0.25,kg
+sicilian,Luganega Sausage,0.29,kg
+sicilian,Onions,0.11,kg
+sicilian,Garlic,0.32,kg
+soppressata,Soppressata Salami,0.11,kg
+soppressata,Fontina Cheese,0.27,kg
+soppressata,Mozzarella Cheese,0.09,kg
+soppressata,Mushrooms,0.16,kg
+soppressata,Garlic,0.22,kg
+spicy_ital,Capocollo,0.24,kg
+spicy_ital,Tomatoes,0.14,kg
+spicy_ital,Goat Cheese,0.21,kg
+spicy_ital,Artichokes,0.3,kg
+spicy_ital,Peperoncini verdi,0.12,kg
+spicy_ital,Garlic,0.28,kg
+spinach_supr,Spinach,0.21,kg
+spinach_supr,Red Onions,0.33,kg
+spinach_supr,Pepperoni,0.18,kg
+spinach_supr,Tomatoes,0.18,kg
+spinach_supr,Artichokes,0.06,kg
+spinach_supr,Kalamata Olives,0.13,kg
+spinach_supr,Garlic,0.11,kg
+spinach_supr,Asiago Cheese,0.27,kg
+five_cheese,Mozzarella Cheese,0.17,kg
+five_cheese,Provolone Cheese,0.08,kg
+five_cheese,Smoked Gouda Cheese,0.14,kg
+five_cheese,Romano Cheese,0.26,kg
+five_cheese,Blue Cheese,0.09,kg
+five_cheese,Garlic,0.2,kg
+four_cheese,Ricotta Cheese,0.18,kg
+four_cheese,Gorgonzola Piccante Cheese,0.08,kg
+four_cheese,Mozzarella Cheese,0.21,kg
+four_cheese,Parmigiano Reggiano Cheese,0.12,kg
+four_cheese,Garlic,0.06,kg
+green_garden,Spinach,0.22,kg
+green_garden,Mushrooms,0.3,kg
+green_garden,Tomatoes,0.19,kg
+green_garden,Green Olives,0.26,kg
+green_garden,Feta Cheese,0.23,kg
+ital_veggie,Eggplant,0.22,kg
+ital_veggie,Artichokes,0.32,kg
+ital_veggie,Tomatoes,0.09,kg
+ital_veggie,Zucchini,0.19,kg
+ital_veggie,Red Peppers,0.32,kg
+ital_veggie,Garlic,0.22,kg
+ital_veggie,Pesto Sauce,0.19,kg
+mediterraneo,Spinach,0.2,kg
+mediterraneo,Artichokes,0.15,kg
+mediterraneo,Kalamata Olives,0.18,kg
+mediterraneo,Sun-dried Tomatoes,0.1,kg
+mediterraneo,Feta Cheese,0.25,kg
+mediterraneo,Plum Tomatoes,0.3,kg
+mediterraneo,Red Onions,0.33,kg
+mexicana,Tomatoes,0.3,kg
+mexicana,Red Peppers,0.3,kg
+mexicana,Jalapeno Peppers,0.2,kg
+mexicana,Red Onions,0.22,kg
+mexicana,Cilantro,0.3,kg
+mexicana,Corn,0.18,kg
+mexicana,Chipotle Sauce,0.22,kg
+mexicana,Garlic,0.28,kg
+spin_pesto,Spinach,0.19,kg
+spin_pesto,Artichokes,0.18,kg
+spin_pesto,Tomatoes,0.24,kg
+spin_pesto,Sun-dried Tomatoes,0.18,kg
+spin_pesto,Garlic,0.29,kg
+spin_pesto,Pesto Sauce,0.13,kg
+spinach_fet,Spinach,0.25,kg
+spinach_fet,Mushrooms,0.14,kg
+spinach_fet,Red Onions,0.25,kg
+spinach_fet,Feta Cheese,0.34,kg
+spinach_fet,Garlic,0.27,kg
+veggie_veg,Mushrooms,0.24,kg
+veggie_veg,Tomatoes,0.29,kg
+veggie_veg,Red Peppers,0.11,kg
+veggie_veg,Green Peppers,0.2,kg
+veggie_veg,Red Onions,0.05,kg
+veggie_veg,Zucchini,0.29,kg
+veggie_veg,Spinach,0.08,kg
+veggie_veg,Garlic,0.11,kg

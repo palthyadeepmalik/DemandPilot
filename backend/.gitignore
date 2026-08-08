@@ -1,0 +1,40 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+*.pyc
+
+# Environment
+backend/.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Build artifacts
+build/
+dist/
+
+# Environment
+backend/.env
+
+# ML artifacts
+backend/app/artifacts/
+backend/artifacts/
+*.pkl
+
+# Dataset
+datasets/
