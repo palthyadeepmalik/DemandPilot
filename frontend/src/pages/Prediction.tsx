@@ -22,7 +22,7 @@ export default function Prediction() {
 
   useEffect(() => {
     axios
-      .get("http://127.0.0.1:8000/prediction/tomorrow")
+      .get(`${import.meta.env.VITE_API_URL}/prediction/tomorrow`)
       .then((res) => {
         setData(res.data);
       })
