@@ -31,7 +31,9 @@ def train_model():
     print("Training Random Forest...")
 
     model = RandomForestRegressor(
-        n_estimators=200,
+        n_estimators=30,
+        max_depth=12,
+        min_samples_leaf=5,
         random_state=42,
         n_jobs=-1
     )
@@ -51,7 +53,8 @@ def train_model():
 
     joblib.dump(
         model,
-        ARTIFACTS_DIR / "demand_model.pkl"
+        ARTIFACTS_DIR / "demand_model.pkl",
+        compress=3
     )
 
     print("\nModel saved successfully!")
